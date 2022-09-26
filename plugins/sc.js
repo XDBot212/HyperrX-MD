@@ -1,0 +1,6 @@
+let handler = async m => m.reply(`Script By Arie Tube = https://youtu.be/1-lDeLNkgk4 Script Recode 𝗛𝘆𝗽𝗲𝗿𝗕𝗼𝘁-𝗠𝗗 = https://github.com/Hyper14/Hyperr X-MD`.trim()) // Tambah sendiri kalo mau
+handler.help = ['sc']
+handler.tags = ['info']
+handler.command = /^script|sc|sourcecode$/i
+
+module.exports = handler

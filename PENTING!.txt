@@ -1,0 +1,7 @@
+Untuk user yang sering mengalami kegagalan saat Start bot:
+
+Buka file index.js di sc bot ini.
+
+Lalu Liat Teks Baris ke 1,Ubah teks hijaunya menjadi= Starting...
+
+ntahlah itu berpengaruh atau gk, tpi coba aja.
